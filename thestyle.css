@@ -9,7 +9,7 @@
     height: 100vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(bg2.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: initial;
     background-attachment: fixed;
     background-repeat: repeat;
     padding-left: 0%;
