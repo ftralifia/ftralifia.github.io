@@ -94,9 +94,8 @@ button:hover{
     position: absolute;
     bottom: 0;
     width: 100%;
-    line-height: 70px;
     background: lightgray;
-    height: 70px;
+    height: 50px;
     font-family: 'Lucida Sans', sans-serif;
     text-align: center;
     color: black;
