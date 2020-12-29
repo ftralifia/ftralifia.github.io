@@ -114,7 +114,7 @@ button:hover{
     padding: 15px 25px;
     box-sizing: border-box;
     cursor: pointer;
-    margin: 10px 32px;
+    margin: 2px 30px;
     background-position: center;
     background-size: contain;
     transition: transform 0.5;
