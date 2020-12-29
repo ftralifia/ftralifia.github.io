@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/bg2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(bg2.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -126,22 +126,22 @@ button:hover{
     transition: transform 0.5;
 }
 .card1{
-    background-image: url(images/jane-eyre.png);
+    background-image: url(jane-eyre.png);
 }
 .card2{
-    background-image: url(images/east-of-eden.png);
+    background-image: url(east-of-eden.png);
 }
 .card3{
-    background-image: url(images/alice.png);
+    background-image: url(alice.png);
 }
 .card4{
-    background-image: url(images/rebacca.png);
+    background-image: url(rebacca.png);
 }
 .card5{
-    background-image: url(images/between.png);
+    background-image: url(between.png);
 }
 .card6{
-    background-image: url(images/midnight.png);
+    background-image: url(midnight.png);
 }
 .card:hover{
     transform: translateY(-10px);
@@ -152,7 +152,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: linear-gradient(rgba(0,1,0,0.5), rgba(0,1,0,0.5)), url(images/bg1.png);
+    background: linear-gradient(rgba(0,1,0,0.5), rgba(0,1,0,0.5)), url(bg1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -256,34 +256,34 @@ body{
     transition: transform 0.5;
 }
 .card11{
-    background-image: url(images/logoriri.png);
+    background-image: url(logoriri.png);
 }
 .card12{
-    background-image: url(images/iPunas.png);
+    background-image: url(iPunas.png);
 }
 .card13{
-   background-image: url(images/feed.jpg);
+   background-image: url(feed.jpg);
 }
 .card14{
-    background-image: url(images/met.png);
+    background-image: url(met.png);
 }
 .card15{
-    background-image: url(images/standard.png);
+    background-image: url(standard.png);
 }
 .card16{
-    background-image: url(images/project.png);
+    background-image: url(project.png);
 }
 .card17{
-    background-image: url(images/libby.png);
+    background-image: url(libby.png);
 }
 .card18{
-    background-image: url(images/hoopla.png);
+    background-image: url(hoopla.png);
 }
 .card19{
-    background-image: url(images/eperpus.png);
+    background-image: url(eperpus.png);
 }
 .card20{
-    background-image: url(images/riveted.jpg);
+    background-image: url(riveted.jpg);
 }
 .card0:hover{
     transform: translateY(-10px);
