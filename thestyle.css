@@ -92,8 +92,9 @@ button:hover{
 }
 .footer {
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
     width: 100%;
+    line-height: 70px;
     background: lightgray;
     height: 70px;
     font-family: 'Lucida Sans', sans-serif;
