@@ -94,6 +94,7 @@ button:hover{
 .footer {
     position: center;
     background: lightgray;
+    background-attachment: fixed;
     height: 70px;
     font-family: 'Lucida Sans', sans-serif;
     text-align: center;
