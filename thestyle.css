@@ -93,7 +93,7 @@ button:hover{
     position: fixed;
     bottom: 0;
     width: 100%;
-    background: lightgray;
+    background: whitesmoke;
     height: 30px;
     font-family: 'Lucida Sans', sans-serif;
     text-align: center;
@@ -102,7 +102,7 @@ button:hover{
     padding-top: 5px;
 }
 .footer .gamelab {
-    color: blue;
+    color: deepskyblue;
     font-size: 25px;
 }
 .card{
