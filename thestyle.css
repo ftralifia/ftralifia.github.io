@@ -95,24 +95,16 @@ button:hover{
     bottom: 0;
     width: 100%;
     background: lightgray;
-    height: 50px;
+    height: 30px;
     font-family: 'Lucida Sans', sans-serif;
     text-align: center;
     color: black;
-    font-size: 15px;
+    font-size: 18px;
     padding-top: 5px;
 }
 .footer .gamelab {
-    font-family: 'Lucida Sans', sans-serif;
-    text-align: center;
-    color: black;
-    font-size: 15px;
-    padding-top: 5px;
-    padding-left: 0px;
-}
-.footer .gamelab a {
     color: blue;
-    font-size: 20px;
+    font-size: 25px;
 }
 .card{
     width: 150px;
