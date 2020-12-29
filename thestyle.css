@@ -5,12 +5,12 @@
     font-family: 'Abhaya Libre', serif;
 }
 .container{
-    width: initial;
-    height: initial;
+    width: auto;
+    height: auto;
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(bg2.jpg);
     background-position: center;
     background-size: cover;
-    background-attachment: initial;
+    background-attachment: fixed;
     background-repeat: initial;
     padding-left: 0%;
     padding-right: 0%;
