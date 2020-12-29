@@ -93,11 +93,11 @@ button:hover{
 }
 .footer {
     position: absolute;
-    bottom: 0;
+    bottom: 0px;
     width: 100%;
     background: lightgray;
-    font-family: 'Lucida Sans', sans-serif;
     height: 55px;
+    font-family: 'Lucida Sans', sans-serif;
     text-align: center;
     color: black;
     font-size: 18px;
